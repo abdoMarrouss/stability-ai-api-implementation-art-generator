@@ -1,0 +1,43 @@
+[
+    {
+      "prompt": "A battle-hardened warrior in futuristic armor, standing on a desolate, war-torn battlefield with a massive, glowing sword. The background is filled with burning wreckage, and the sky is a fiery red, reflecting the chaos of war.",
+      "imageName": "Futuristic-Warrior.png"
+    },
+    {
+      "prompt": "A mystical sorceress with flowing robes, casting a powerful spell. She stands atop a mountain peak, with swirling magical energy forming a protective barrier around her. The sky is filled with stormy clouds, and lightning bolts are striking around her.",
+      "imageName": "Mystical-Sorceress.png"
+    },
+    {
+      "prompt": "A stealthy rogue character, cloaked in shadows, crouching on the rooftop of a medieval city under the cover of night. The city below is lit by torchlight, and the rogue holds a dagger, ready to strike. The full moon looms large in the sky.",
+      "imageName": "Stealthy-Rogue.png"
+    },
+    {
+      "prompt": "A valiant knight in shining armor, standing in front of a grand castle gate. The knight holds a shield with a family crest and a glowing sword. The background features the castle’s tall towers, banners waving in the wind, and a vibrant sunset.",
+      "imageName": "Valiant-Knight.png"
+    },
+    {
+      "prompt": "A cyberpunk hacker in a neon-lit city, surrounded by holographic screens and futuristic gadgets. The character is wearing a high-tech visor and gloves, hacking into a mainframe. The cityscape behind them is filled with towering skyscrapers and flying vehicles.",
+      "imageName": "Cyberpunk-Hacker.png"
+    },
+    {
+      "prompt": "A fierce dragon rider flying high above a mountainous terrain. The character is armored, wielding a spear, and riding a massive, fire-breathing dragon. The background shows a vast landscape with volcanoes and stormy skies.",
+      "imageName": "Dragon-Rider.png"
+    },
+    {
+      "prompt": "A heroic archer standing on the edge of a dense forest, aiming their bow towards an unseen enemy. The archer is dressed in leather armor, with a quiver full of arrows on their back. The forest is lush with ancient trees, and the sunlight filters through the leaves.",
+      "imageName": "Heroic-Archer.png"
+    },
+    {
+      "prompt": "A powerful demon lord sitting on a throne made of skulls, surrounded by flames and darkness. The demon has glowing red eyes, large horns, and wields a menacing, flaming sword. The background is filled with lava pits and ominous, dark clouds.",
+      "imageName": "Demon-Lord.png"
+    },
+    {
+      "prompt": "A space explorer in a sleek, futuristic spacesuit, standing on the surface of an alien planet. The character is gazing at the distant galaxy, with strange, towering rock formations and glowing alien flora in the background.",
+      "imageName": "Space-Explorer.png"
+    },
+    {
+      "prompt": "A samurai warrior in traditional armor, standing in a tranquil bamboo forest. The samurai holds a katana, with cherry blossom petals floating in the air. The background shows a serene landscape with a mountain range in the distance.",
+      "imageName": "Samurai-Warrior.png"
+    }
+  ]
+  
